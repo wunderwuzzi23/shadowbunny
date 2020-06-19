@@ -23,6 +23,7 @@ Stay tuned!
 ### References
 * https://embracethered.com/shadowbunny-ttp-pt.html
 * https://pentestmag.com/product/pentest-healthcare-security/
+* https://attack.mitre.org/techniques/T1062/
 * https://wunderwuzzi23.github.io/blog/posts/2020/shadowbunny-ttp-pentest-magazine/
 * https://twitter.com/wunderwuzzi23
 
