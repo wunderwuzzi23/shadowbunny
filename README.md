@@ -1,8 +1,6 @@
 # Welcome the Shadowbunny 
 ## Leveraging virtual machines (VMs) during lateral movement
 
-**********************************************************
-
 **UNDER CONSTRUCTION**
 
 **PLEASE VISIT AGAIN SOON FOR CODE EXAMPLES AND MORE DETAILS**
