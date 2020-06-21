@@ -20,6 +20,36 @@ And this repo will contain more information about the technical details soon.
 
 Stay tuned!
 
+## Disclaimer
+Penetration testing requires authorization from proper stakeholders. Information in this post is provided for research and educational purposes to advance understanding of attacks and countermeasures to help improve the security posture of  infrastructure and systems. 
+
+```
+                / \
+                / _ \
+               | / \ |
+               ||   || _______
+               ||   || |\     \                       The SHADOWBUNNY :)
+               ||   || ||\     \              
+               ||   || || \    |             ...is hiding in virtual machines.
+               ||   || ||  \__/
+               ||   || ||   ||
+                \\_/ \_/ \_//
+               /   _     _   \
+              /               \
+              |    O     O    |
+              |   \  ___  /   |                           
+             /     \ \_/ /     \
+            /  -----  |  --\    \
+            |     \__/|\__/ \   |
+            \       |_|_|       /
+             \_____       _____/
+                   \     /
+                   |     |
+```
+*ASCII Art from https://www.asciiart.eu/animals/rabbits*
+
+
+
 ### References
 * https://embracethered.com/shadowbunny-ttp-pt.html
 * https://pentestmag.com/product/pentest-healthcare-security/
