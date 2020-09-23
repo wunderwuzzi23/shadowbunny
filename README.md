@@ -5,9 +5,7 @@
 
 ### What is the Shadowbunny?
 
-"A Shadowbunny is a virtual machine (VM) instance that is deployed on a compromised host to provide an adversary persistence and at the same time evade detections. The VM itself does not have any security monitoring and is entirely attacker controlled."
-
-https://www.urbandictionary.com/define.php?term=shadowbunny
+"A Shadowbunny is a virtual machine (VM) instance that is deployed on a compromised host to provide an adversary persistence and at the same time evade detections. The VM itself does not have any security monitoring and is entirely attacker controlled." [Definition from Urban Dictionary](https://www.urbandictionary.com/define.php?term=shadowbunny)
 
 Real world adversaries have been using VMs as well, including the [Ragnar Locker Ransomware](https://news.sophos.com/en-us/2020/05/21/ragnar-locker-ransomware-deploys-virtual-machine-to-dodge-security/), and it's time to shine more light on this, so that we have better chances of detecting such attacks.
 
