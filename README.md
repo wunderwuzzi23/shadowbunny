@@ -1,4 +1,4 @@
-# Beware of the Shadowbunny -
+# Beware of the Shadowbunny
 ## Leveraging virtual machines (VMs) during lateral movement
 
 **********************************************************
