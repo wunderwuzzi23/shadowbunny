@@ -7,7 +7,11 @@
 
 **********************************************************
 
-The latest edition of the [PenTest Magazine](https://pentestmag.com/product/pentest-healthcare-security/) features an article of mine about using virtual machines (VMs) during lateral movement to establish persistence and evade detections.
+[PenTest Magazine](https://pentestmag.com/product/pentest-healthcare-security/) features an article of mine about using virtual machines (VMs) during lateral movement to establish persistence and evade detections.
+
+"Beware of the Shadowbunny" presentation at [BSides Singapore 2020](https://bsidessg.org/speaker/johann-rehberger/). 
+
+Also see more details under the Wiki page: https://github.com/wunderwuzzi23/shadowbunny/wiki/Beware-of-the-Shadowbunny
 
 A few years back when I came up with the idea of using VMs for lateral movement during red teaming, I called it the **Shadowbunny TTP** and that name stuck around in my head. There is more info in the article around the origin of the name also.
 
