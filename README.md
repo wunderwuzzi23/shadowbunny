@@ -1,28 +1,27 @@
-# Welcome the Shadowbunny 
+# Beware of the Shadowbunny -
 ## Leveraging virtual machines (VMs) during lateral movement
-
-**UNDER CONSTRUCTION**
-
-**PLEASE VISIT AGAIN SOON FOR CODE EXAMPLES AND MORE DETAILS**
 
 **********************************************************
 
-[PenTest Magazine](https://pentestmag.com/product/pentest-healthcare-security/) features an article of mine about using virtual machines (VMs) during lateral movement to establish persistence and evade detections.
+### What is the Shadowbunny?
 
-"Beware of the Shadowbunny" presentation at [BSides Singapore 2020](https://bsidessg.org/speaker/johann-rehberger/). 
+"A Shadowbunny is a virtual machine (VM) instance that is deployed on a compromised host to provide an adversary persistence and at the same time evade detections. The VM itself does not have any security monitoring and is entirely attacker controlled."
 
-Also see more details under the Wiki page: https://github.com/wunderwuzzi23/shadowbunny/wiki/Beware-of-the-Shadowbunny
-
-A few years back when I came up with the idea of using VMs for lateral movement during red teaming, I called it the **Shadowbunny TTP** and that name stuck around in my head. There is more info in the article around the origin of the name also.
+https://www.urbandictionary.com/define.php?term=shadowbunny
 
 Real world adversaries have been using VMs as well, including the [Ragnar Locker Ransomware](https://news.sophos.com/en-us/2020/05/21/ragnar-locker-ransomware-deploys-virtual-machine-to-dodge-security/), and it's time to shine more light on this, so that we have better chances of detecting such attacks.
 
-### Future information about the Shadowbunny technique
+### Resources
 
-This repo will soon contain more details about creation, installation, configuration, and pivoting steps for a custom Shadowbunny VM using VirtualBox and Hyper-V. As well as details and ideas for detections.
-And this repo will contain more information about the technical details soon.
+* [PenTest Magazine](https://pentestmag.com/product/pentest-healthcare-security/) features an article of mine about using virtual machines (VMs) during lateral movement to establish persistence and evade detections.
+* "Beware of the Shadowbunny" presentation at [BSides Singapore 2020](https://bsidessg.org/speaker/johann-rehberger/). 
+* Detailed [blog post about the Shadowbunny TTP](https://embracethered.com/blog/posts/2020/shadowbunny-virtual-machine-red-teaming-technique/)
+* The Wiki page in this github repo: https://github.com/wunderwuzzi23/shadowbunny/wiki/Beware-of-the-Shadowbunny
+* [Ragnar Locker Ransomware Deep-dive](https://news.sophos.com/en-us/2020/05/21/ragnar-locker-ransomware-deploys-virtual-machine-to-dodge-security/)
 
-Stay tuned!
+There will be updates once in a while with more technical details, read it first at https://embracethered.com.
+
+
 
 ## Disclaimer
 Penetration testing requires authorization from proper stakeholders. Information in this post is provided for research and educational purposes to advance understanding of attacks and countermeasures to help improve the security posture of  infrastructure and systems. 
